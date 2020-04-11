@@ -1,9 +1,16 @@
 [
   {
+    "title": "Full Stack Engineer",
+    "company": "Choice Sourcing",
+    "start": "Apr 2020",
+    "end": "Present",
+    "summary": "Working in a team of full stack developers, developing operational monitoring applications to monitor our client's systems by supplying operational monitoring system as a service. Developing Web-based applications using ASP.Net MVC, JavaScript, Angular, VB-6, SQL Server, Couchbase server, OMA database, GitLab, JIRA and SNMP Monitoring"
+  },
+  {
     "title": "Software Developer (Tester)",
     "company": "SA Home Loans",
     "start": "Mar 2019",
-    "end": "Present",
+    "end": "Mar 2020",
     "summary": "Working in agile (Scrum team) environment, Developing and testing enterprise applications to implement new features or update existing functions to improve business processes. Developing Web-based applications using ASP.Net MVC, AngularJS, SQL Server, GitLab, JIRA and Workflow maps. I have been exposed in unit and automation testing to verify developer's work, being involved in spring plannings and reviews."
   },
   {
